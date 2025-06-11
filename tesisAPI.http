@@ -1,0 +1,6 @@
+@tesisAPI_HostAddress = http://localhost:5071
+
+GET {{tesisAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
